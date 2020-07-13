@@ -25,7 +25,10 @@ Just inject the DLL when in lobby, and you should be good
 
 # Credits
 
-Unknowncheats's Fortnite Reversal page
-@Mike024 - Developing most of the cheat (exclusing the maven pieces)
-@Poorman24 / SDK - Providing useful information / reversal information calling multiple functions
+To the Unknowncheats's Fortnite Reversal page,
+
+@Mike024 - Developing most of the cheat (exclusing the maven pieces),
+
+@Poorman24 / SDK - Providing useful information / reversal information calling multiple functions,
+
 @Sinclairq (me) - Information / Research provided to complete the cheat
