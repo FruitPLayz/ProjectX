@@ -32,3 +32,5 @@ To the Unknowncheats's Fortnite Reversal page,
 @Poorman24 / SDK - Providing useful information / reversal information calling multiple functions,
 
 @Sinclairq (me) - Information / Research provided to complete the cheat
+
+@dano20zombie - FortUpdater
