@@ -20,6 +20,7 @@ Everything is mostly calculated using UE4 functions like ProjectWorldLocationToS
 
 # Usage
 This can be compiled with Visual Studio 2019, with the c++ tools installed.
+
 Just inject the DLL when in lobby, and you should be good
 
 # Credits
