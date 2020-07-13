@@ -11,7 +11,7 @@ No further support will be provided with this project. This is a ugly PoC that w
 - Objects in the game (Chests, Choppers, Sharks, Llamas, etc.)
 - Bullet Teleportation
 - First Person Mode (will fuck your sniper unless you fix it.)
-- Player Teleportation (no bypass implemented, so server sided)
+- Player Teleportation (no bypass implemented, so client-sided)
 - Boat / Helicopter speed / other features.
 
 This cheat is detected by default on both commercial anti-cheats run by Fortnite (BattleEye and EasyAntiCheat)
